@@ -1,0 +1,11 @@
+{
+  "window_width": 800,
+  "window_height": 600,
+  "fps": 60,
+  "player_speed": 7,
+  "bullet_speed": 12,
+  "enemy_spawn_rate": 90,
+  "enemy_speed": 3,
+  "max_health": 100,
+  "volume": 0.5
+}
